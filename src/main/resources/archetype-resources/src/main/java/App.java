@@ -14,4 +14,9 @@ public class App
     public static void qmyCoding(){
         System.out.println( "qmyCoding qmyCoding qmyCoding qmyCoding" );
     }
+
+    public void xiaomingCoding()
+    {
+        System.out.println( "xiaomingCoding xiaomingCoding xiaomingCoding xiaomingCoding" );
+    }
 }
