@@ -10,4 +10,9 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+
+    public void xiaomingCoding()
+    {
+        System.out.println( "xiaomingCoding xiaomingCoding xiaomingCoding xiaomingCoding" );
+    }
 }
