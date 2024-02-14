@@ -10,4 +10,8 @@ public class App
     {
         System.out.println( "main1 main1 main1!" );
     }
+
+    public static void qmyCoding(){
+        System.out.println( "qmyCoding qmyCoding qmyCoding qmyCoding" );
+    }
 }
