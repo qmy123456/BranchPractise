@@ -19,4 +19,9 @@ public class App
     {
         System.out.println( "xiaomingCoding xiaomingCoding xiaomingCoding xiaomingCoding" );
     }
+
+    public void gitCoding()
+    {
+        System.out.println( "gitCoding gitCoding gitCoding gitCoding" );
+    }
 }
